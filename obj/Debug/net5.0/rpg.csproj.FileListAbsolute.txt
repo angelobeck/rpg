@@ -1,0 +1,16 @@
+C:\xampp\htdocs\rpg\obj\Debug\net5.0\rpg.csproj.AssemblyReference.cache
+C:\xampp\htdocs\rpg\obj\Debug\net5.0\rpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\rpg\obj\Debug\net5.0\rpg.AssemblyInfoInputs.cache
+C:\xampp\htdocs\rpg\obj\Debug\net5.0\rpg.AssemblyInfo.cs
+C:\xampp\htdocs\rpg\obj\Debug\net5.0\rpg.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\rpg\bin\Debug\net5.0\rpg.exe
+C:\xampp\htdocs\rpg\bin\Debug\net5.0\rpg.deps.json
+C:\xampp\htdocs\rpg\bin\Debug\net5.0\rpg.runtimeconfig.json
+C:\xampp\htdocs\rpg\bin\Debug\net5.0\rpg.runtimeconfig.dev.json
+C:\xampp\htdocs\rpg\bin\Debug\net5.0\rpg.dll
+C:\xampp\htdocs\rpg\bin\Debug\net5.0\ref\rpg.dll
+C:\xampp\htdocs\rpg\bin\Debug\net5.0\rpg.pdb
+C:\xampp\htdocs\rpg\obj\Debug\net5.0\rpg.dll
+C:\xampp\htdocs\rpg\obj\Debug\net5.0\ref\rpg.dll
+C:\xampp\htdocs\rpg\obj\Debug\net5.0\rpg.pdb
+C:\xampp\htdocs\rpg\obj\Debug\net5.0\rpg.genruntimeconfig.cache
